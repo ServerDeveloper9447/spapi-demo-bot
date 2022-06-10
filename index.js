@@ -35,4 +35,4 @@ bot.readyCommand({
     code: `$log[Ready on $userTag[$clientID]]`
 })
 
-require('express')().get('/', (rq, rs) => rs.sendStatus(200)).listen(300)
+require('express')().get('/', (rq, rs) => rs.sendStatus(200)).listen(3000)
