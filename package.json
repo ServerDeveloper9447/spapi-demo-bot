@@ -1,0 +1,15 @@
+{
+  "name": "cbofficial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "aoi.js": "^5.1.0",
+    "cleverbot-free": "^1.1.11",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "node-fetch": "^2.6.1",
+    "spapi-bundle": "^1.0.0",
+    "spapi-wrapper": "^2.0.0",
+    "spapi-wrapper-v2": "^1.3.0"
+  }
+}
